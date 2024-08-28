@@ -1,12 +1,17 @@
 {
-  "name": "simple-string-truncator",
+  "name": "simple-string-truncate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight utility for truncating strings in JavaScript.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosh1331/simple-string-truncate"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["truncate", "string", "utility"],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mosh1331/simple-string-truncate/issues"
+  },
+  "homepage": "https://github.com/mosh1331/simple-string-truncate#readme"
 }
